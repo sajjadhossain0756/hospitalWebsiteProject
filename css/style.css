@@ -1,0 +1,42 @@
+
+
+body{
+    overflow-x: hidden;
+    width: 100%;
+}
+.mobile{
+    margin: 20px 10px 0 0;
+}
+.d-block{
+    margin-top: -14px;
+}
+.p-first{
+    color: #06a3da;
+    margin: 0;
+    font-size: 20px;
+}
+.btn-hover:hover{
+      background-color: orange;
+}
+.style-1{
+    
+    border-bottom: 3px solid !important;
+    width: 40px !important;
+    color: #06a3da;
+    position: absolute;
+    bottom: 15px;
+    left: 150px;
+}
+.style-2{
+    
+    border-bottom: 3px solid !important;
+    width: 20px !important;
+    color: orangered;
+    position: absolute;
+    bottom:15px;
+    left: 200px;
+}
+.p-text{
+    font-size: 15px;
+    color: gray;
+}

@@ -1,0 +1,575 @@
+/**nav-top section start here**/
+.top .div-1 {
+  background-color: #eef9ff;
+}
+
+.top .div-2 {
+  background-color: #06a3da;
+}
+
+.top .div-2 .p-one {
+  border-right: 1px solid white;
+  height: 45px;
+  margin-bottom: -10px;
+}
+
+nav .navbar-brand {
+  color: #06a3da;
+  font-weight: 900 !important;
+}
+
+nav .active {
+  color: #06a3da !important;
+}
+
+nav form button {
+  background-color: #06a3da !important;
+  border-radius: 0 !important;
+  color: white !important;
+}
+
+nav form input {
+  width: 90px !important;
+  visibility: hidden;
+}
+
+nav form div i {
+  position: absolute;
+  left: -60px;
+  top: 10px;
+}
+
+/**nav-top section end here**/
+/**hero-image section start here**/
+.heroimg .background {
+  background-image: url(../images/back1.png);
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 500px;
+  text-align: center;
+}
+
+.heroimg .background h1 {
+  width: 600px;
+}
+
+.heroimg .background .div-2 .btn-1 {
+  background-color: #06a3da;
+  color: white;
+  padding: 15px 20px;
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.heroimg .background .div-2 .btn-2 {
+  background-color: orange;
+  color: white;
+  padding: 15px 30px;
+  font-weight: bold;
+}
+
+.heroimg .background2 {
+  background-image: url(../images/back2.png);
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 500px;
+  text-align: center;
+}
+
+.heroimg .background2 h1 {
+  width: 600px;
+}
+
+.heroimg .background2 .div-2 .btn-1 {
+  background-color: #06a3da;
+  color: white;
+  padding: 10px 20px;
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.heroimg .background2 .div-2 .btn-2 {
+  background-color: orange;
+  color: white;
+  padding: 10px 30px;
+  font-weight: bold;
+}
+
+.heroimg .background3 {
+  background-image: url(../images/back3.png);
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 500px;
+  text-align: center;
+}
+
+.heroimg .background3 h1 {
+  width: 600px;
+}
+
+.heroimg .background3 .div-2 .btn-1 {
+  background-color: #06a3da;
+  color: white;
+  padding: 10px 20px;
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.heroimg .background3 .div-2 .btn-2 {
+  background-color: orange;
+  color: white;
+  padding: 10px 30px;
+  font-weight: bold;
+}
+
+/**hero-image section end here**/
+/**opening-hour section start here**/
+.opening-hour .row {
+  position: relative;
+  top: -80px;
+}
+
+.opening-hour .row .div-1 {
+  background-color: #06a3da;
+}
+
+.opening-hour .row .div-1 a {
+  background-color: white;
+  padding: 10px;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+  width: 260px;
+  font-size: 22px;
+}
+
+.opening-hour .row .div-2 {
+  background-color: #091d3e;
+}
+
+.opening-hour .row .div-2 input {
+  width: 270px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.opening-hour .row .div-2 button {
+  border: none;
+  padding: 10px;
+  width: 270px;
+}
+
+.opening-hour .row .div-3 {
+  background-color: orange;
+}
+
+/**opening-hour section end here**/
+/**About section start here**/
+.about .para-3 {
+  font-size: 26px;
+  font-weight: bold;
+  font-style: italic;
+  color: gray;
+}
+
+.about button {
+  border: none;
+  background-color: #06a3da;
+  padding: 10px 25px;
+  color: white;
+  font-weight: bold;
+}
+
+.about .img-div img {
+  height: 470px;
+}
+
+/**About section end here**/
+/**Award section start here**/
+.award {
+  background-image: url(../images/back2.png);
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 493px;
+}
+
+.award .div-2 {
+  background-color: #06a3da;
+}
+
+.award .div-2 input {
+  padding: 14px;
+}
+
+.award .div-2 .nav-link {
+  background-color: #091d3e;
+  color: white;
+  font-weight: bold;
+  width: 436px;
+  margin-left: 18px;
+  padding: 18px;
+}
+
+/**Award section ends here**/
+/**service section start here**/
+.service .div-1 img {
+  height: 460px;
+}
+
+.service .div-2 figure figcaption {
+  background-color: #eef9ff;
+  text-align: center;
+  width: 310px;
+  padding: 20px 10px;
+  font-weight: bold;
+}
+
+/**service section end here**/
+/**appoinment section start here**/
+.appointment .div-1 figure figcaption {
+  text-align: center;
+  font-weight: bold;
+  background-color: #eef9ff;
+  width: 308px;
+  padding: 20px 0;
+}
+
+.appointment .div-2 {
+  background-color: #06a3da;
+  padding: 50px 10px;
+  height: 270px;
+}
+
+/**appoinment section ends here**/
+/**offer section start here**/
+.offer {
+  background-image: url(../images/back2.png);
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 500px;
+}
+
+.offer .main-div {
+  background-color: #06a3da;
+}
+
+.offer .main-div h2 {
+  width: 550px;
+  text-align: center;
+  color: white;
+  margin: 0 auto;
+  font-size: 35px;
+}
+
+.offer .main-div .btn-div .btn-1 {
+  background-color: #091d3e;
+  padding: 15px 20px;
+  font-weight: bold;
+}
+
+.offer .main-div .btn-div .btn-2 {
+  background-color: orange;
+  padding: 15px 25px;
+  font-weight: bold;
+}
+
+/**offer section end here**/
+/**Pricing section start here**/
+.pricing .div-2 .card {
+  -webkit-box-shadow: 2px 2px 2px gray;
+          box-shadow: 2px 2px 2px gray;
+  border-radius: 0;
+  width: 19rem;
+}
+
+.pricing .div-2 .card img {
+  border-radius: 0;
+}
+
+.pricing .div-2 .card-body {
+  background-color: #eef9ff;
+  border: none !important;
+}
+
+.pricing .div-2 .card-body .para-1 {
+  background-color: #eef9ff;
+  font-size: 32px;
+  font-weight: bold;
+  color: #06a3da;
+  margin-top: -35px;
+  margin-left: 80px;
+  width: 80px;
+  text-align: center;
+}
+
+.pricing .div-2 .card-body a {
+  background-color: #06a3da;
+  border-radius: 0;
+  color: white;
+  font-weight: bold;
+  padding: 10px 20px;
+  margin-bottom: -45px;
+  margin-left: 55px;
+}
+
+.pricing .div-2 .card-body .card-title {
+  border-bottom: 1px solid #06a3da;
+  width: 190px;
+  margin: 0 auto;
+  padding-bottom: 5px;
+}
+
+.pricing .div-2 .card-body p i {
+  font-size: 24px;
+  color: #06a3da;
+}
+
+.pricing .div-2 .card-body p span {
+  color: gray;
+  font-size: 18px !important;
+  font-weight: bold !important;
+}
+
+/**Pricing section end here**/
+/**client-review section start here**/
+.client-review {
+  background-image: url(../images/back3.png);
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 500px;
+}
+
+.client-review .main-div {
+  background-color: #06a3da;
+}
+
+.client-review .main-div img {
+  height: 100px;
+  width: 150px;
+}
+
+.client-review .main-div blockquote cite {
+  margin-top: 20px;
+}
+
+/**client-review section end here**/
+/**Specialist section start here**/
+.specialist .div-1 {
+  background-color: #eef9ff;
+}
+
+.specialist .div-1 a {
+  background-color: #06a3da;
+  padding: 10px 20px;
+  color: white;
+  width: 140px;
+  font-weight: bold;
+}
+
+.specialist .div-2 .card-3 {
+  width: 25rem;
+}
+
+.specialist .div-2 .card {
+  border-radius: 0;
+  width: 20rem;
+}
+
+.specialist .div-2 .card .card-body {
+  background-color: #eef9ff;
+  text-align: center;
+}
+
+.specialist .div-2 .card .card-body .icon-div {
+  font-size: 32px;
+  margin-top: -40px;
+  margin-left: 50px;
+}
+
+.specialist .div-2 .card .card-body .icon-div i {
+  margin-left: 8px;
+  color: #06a3da;
+  background-color: white;
+  border-radius: 20px;
+}
+
+.specialist .div-2 .card img {
+  border-radius: 0;
+  height: 260px;
+}
+
+/**specialist section end here**/
+/**footer section start here**/
+.sign-up {
+  background-color: #06a3da;
+  position: relative;
+  bottom: -70px;
+  z-index: 1;
+}
+
+.sign-up .row input {
+  width: 450px;
+  padding: 10px;
+  border-radius: 0 !important;
+  border: none;
+}
+
+.sign-up .row button {
+  border: none;
+  background-color: #091d3e;
+  padding: 10px 20px;
+  color: white;
+  margin-left: -5px;
+}
+
+footer {
+  background-color: #091d3e;
+}
+
+footer ul {
+  list-style: none;
+}
+
+footer ul .icon-li i {
+  padding: 0 6px 0 0;
+  font-size: 35px;
+  color: #06a3da;
+}
+
+footer .ul-div li {
+  padding: 3px 0;
+}
+
+footer .copyright div {
+  background-color: #06a3da;
+  width: 50px;
+  height: 70px;
+  padding: 10px;
+  display: inline-block;
+  position: absolute;
+  bottom: 5px;
+  right: 20px;
+}
+
+footer .copyright div i {
+  color: white;
+  font-size: 26px;
+}
+
+/**footer section end here**/
+/**style for mobile device start here**/
+@media screen and (max-width: 576px) {
+  nav .navbar-nav {
+    text-align: center;
+  }
+  nav form {
+    margin-left: 80px;
+  }
+  .heroimg .carousel-item div h1 {
+    width: 400px;
+  }
+  .award .div-2 input {
+    width: 400px;
+    margin-bottom: 15px;
+  }
+  .award .div-2 .nav-link {
+    width: 300px;
+    position: relative;
+    left: -15px;
+  }
+  .service .div-1 {
+    margin-top: 650px;
+  }
+  .service .div-2 {
+    margin-top: 70px;
+  }
+  .service .div-2 figure figcaption {
+    width: 450px;
+  }
+  .appointment .div-1 figure figcaption {
+    width: 460px;
+  }
+  .offer .main-div {
+    position: relative;
+    left: -115px;
+    width: 500px;
+  }
+  .offer .main-div h2 {
+    width: 450px;
+  }
+  .pricing .div-2 .card {
+    width: 27rem;
+    margin-bottom: 25px;
+    margin-left: 15px;
+  }
+  .pricing .div-2 .card .card-body .para-1 {
+    position: relative;
+    left: 70px;
+    top: -5px;
+  }
+  .pricing .div-2 .card .card-body a {
+    margin-left: 130px;
+  }
+  .client-review .main-div {
+    position: relative;
+    left: -110px;
+  }
+  .client-review .main-div blockquote {
+    padding: 20px 40px;
+  }
+  .specialist .card-1 {
+    margin: 20px 0;
+  }
+  .specialist .card {
+    width: 22rem;
+    margin-left: 30px;
+  }
+  .specialist .card-3 {
+    margin-left: 65px;
+  }
+  .sign-up .row input {
+    width: 200px;
+    margin-left: -20px;
+  }
+}
+
+/**style for mobile device end here**/
+/**style for tablet device start here**/
+@media screen and (max-width: 786px) {
+  /**product section start here**/
+  .product .last-div {
+    height: 520px;
+  }
+  .product .last-div .card-1 {
+    bottom: 400px;
+    left: 0px;
+  }
+  .product .last-div .card-2 {
+    bottom: 400px;
+    left: 240px;
+  }
+  .product .last-div .card-3 {
+    bottom: 80px;
+    left: 0;
+  }
+  .product .last-div .card-4 {
+    bottom: 80px;
+    left: 240px;
+  }
+  /**professional section start here**/
+  .professional .div-1 {
+    width: 400px;
+  }
+  .professional .row {
+    padding-left: 150px;
+  }
+}
+
+/**style for tablet device end here**/
+/*# sourceMappingURL=style2.css.map */

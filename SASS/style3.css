@@ -1,0 +1,391 @@
+/**nav-top section start here**/
+.top .div-1 {
+  background-color: #eef9ff;
+}
+
+.top .div-2 {
+  background-color: #06a3da;
+}
+
+.top .div-2 .p-one {
+  border-right: 1px solid white;
+  height: 45px;
+  margin-bottom: -10px;
+}
+
+nav .navbar-brand {
+  color: #06a3da;
+  font-weight: 900 !important;
+}
+
+nav .active {
+  color: #06a3da !important;
+}
+
+nav form button {
+  background-color: #06a3da !important;
+  border-radius: 0 !important;
+  color: white !important;
+}
+
+nav form button:hover {
+  background-color: orange !important;
+  color: #091d3e !important;
+}
+
+nav form input, nav form .contact .div-2 select, .contact .div-2 nav form select, nav form .contact .div-2 textarea, .contact .div-2 nav form textarea {
+  width: 90px !important;
+  visibility: hidden;
+}
+
+nav form div i {
+  position: absolute;
+  left: -60px;
+  top: 10px;
+}
+
+/**nav-top section end here**/
+/**hero-image section start here**/
+.heroimg {
+  background-image: url(../images/heroimg.jpeg);
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 300px;
+}
+
+.heroimg div p {
+  position: relative;
+  left: -20px;
+}
+
+/**hero-image section end here**/
+/**service section start here**/
+.service .div-1 img {
+  height: 460px;
+}
+
+.service .div-2 figure figcaption {
+  background-color: #eef9ff;
+  text-align: center;
+  width: 310px;
+  padding: 20px 10px;
+  font-weight: bold;
+}
+
+/**service section end here**/
+/**appoinment section start here**/
+.appointment .div-1 figure figcaption {
+  text-align: center;
+  font-weight: bold;
+  background-color: #eef9ff;
+  width: 308px;
+  padding: 20px 0;
+}
+
+.appointment .div-2 {
+  background-color: #06a3da;
+  padding: 50px 10px;
+  height: 270px;
+}
+
+/**appoinment section ends here**/
+/**Pricing section start here**/
+.pricing .div-2 .card-3 .card-title {
+  font-size: 21.8px;
+}
+
+.pricing .div-2 .card {
+  -webkit-box-shadow: 2px 2px 2px gray;
+          box-shadow: 2px 2px 2px gray;
+  border-radius: 0;
+}
+
+.pricing .div-2 .card img {
+  border-radius: 0;
+}
+
+.pricing .div-2 .card-body {
+  background-color: #eef9ff;
+  border: none !important;
+}
+
+.pricing .div-2 .card-body .para-1 {
+  background-color: #eef9ff;
+  font-size: 32px;
+  font-weight: bold;
+  color: #06a3da;
+  margin-top: -35px;
+  margin-left: 80px;
+  width: 80px;
+  text-align: center;
+}
+
+.pricing .div-2 .card-body a {
+  background-color: #06a3da;
+  border-radius: 0;
+  color: white;
+  font-weight: bold;
+  padding: 10px 20px;
+  margin-bottom: -45px;
+  margin-left: 55px;
+}
+
+.pricing .div-2 .card-body .card-title {
+  border-bottom: 1px solid #06a3da;
+  width: 170px;
+  margin: 0 auto;
+  padding-bottom: 5px;
+}
+
+.pricing .div-2 .card-body p i {
+  font-size: 24px;
+  color: #06a3da;
+}
+
+.pricing .div-2 .card-body p span {
+  color: gray;
+  font-size: 18px !important;
+  font-weight: bold !important;
+}
+
+/**Pricing section end here**/
+/**contact section start here**/
+.contact .div-1 {
+  background-color: #eef9ff;
+}
+
+.contact .div-2 input, .contact .div-2 select, .contact .div-2 textarea {
+  background-color: #eef9ff;
+  width: 370px;
+  border: none;
+  padding: 20px 10px;
+  margin: 0 0 20px 0;
+}
+
+.contact .div-2 textarea {
+  resize: none;
+}
+
+.contact .div-2 button {
+  background-color: #06a3da;
+  width: 370px;
+  padding: 13px 10px;
+  border: none;
+  margin-top: -10px;
+}
+
+.contact .map iframe {
+  height: 430px;
+  width: 310px;
+}
+
+/**contact section end here**/
+/**About section start here**/
+.about .para-3 {
+  font-size: 26px;
+  font-weight: bold;
+  font-style: italic;
+  color: gray;
+}
+
+.about button {
+  border: none;
+  background-color: #06a3da;
+  padding: 10px 25px;
+  color: white;
+  font-weight: bold;
+}
+
+.about .img-div img {
+  height: 470px;
+}
+
+/**About section end here**/
+/**footer section start here**/
+.sign-up {
+  background-color: #06a3da;
+  position: relative;
+  bottom: -70px;
+  z-index: 1;
+}
+
+.sign-up .row input, .sign-up .row .contact .div-2 select, .contact .div-2 .sign-up .row select, .sign-up .row .contact .div-2 textarea, .contact .div-2 .sign-up .row textarea {
+  width: 450px;
+  padding: 10px;
+  border-radius: 0 !important;
+  border: none;
+}
+
+.sign-up .row button {
+  border: none;
+  background-color: #091d3e;
+  padding: 10px 20px;
+  color: white;
+  margin-left: -5px;
+}
+
+footer {
+  background-color: #091d3e;
+}
+
+footer ul {
+  list-style: none;
+}
+
+footer ul .icon-li i {
+  padding: 0 6px 0 0;
+  font-size: 35px;
+  color: #06a3da;
+}
+
+footer .ul-div li {
+  padding: 3px 0;
+}
+
+footer .copyright div {
+  background-color: #06a3da;
+  width: 50px;
+  height: 70px;
+  padding: 10px;
+  display: inline-block;
+  position: absolute;
+  bottom: 5px;
+  right: 20px;
+}
+
+footer .copyright div i {
+  color: white;
+  font-size: 26px;
+}
+
+/**footer section end here**/
+/**style for mobile device start here**/
+@media screen and (max-width: 576px) {
+  nav .navbar-nav {
+    text-align: center;
+  }
+  nav form {
+    margin-left: 80px;
+  }
+  .heroimg div p {
+    position: relative;
+    left: -50px;
+  }
+  .heroimg .carousel-item div h1 {
+    width: 400px;
+  }
+  .award .div-2 input, .award .contact .div-2 select, .contact .award .div-2 select, .award .contact .div-2 textarea, .contact .award .div-2 textarea {
+    width: 400px;
+    margin-bottom: 15px;
+  }
+  .award .div-2 .nav-link {
+    width: 300px;
+    position: relative;
+    left: -15px;
+  }
+  .service .div-1 {
+    margin-top: 10px;
+  }
+  .service .div-2 {
+    margin-top: 20px;
+  }
+  .service .div-2 figure figcaption {
+    width: 450px;
+  }
+  .appointment .div-1 figure figcaption {
+    width: 460px;
+  }
+  .contact .div-2 {
+    margin-top: 20px;
+  }
+  .contact .div-2 input, .contact .div-2 select, .contact .div-2 textarea {
+    width: 440px;
+  }
+  .contact .div-2 button {
+    width: 440px;
+    margin: 10px 0;
+  }
+  .contact .map iframe {
+    height: 430px;
+    width: 440px;
+    margin-left: -40px;
+  }
+  .offer .main-div {
+    position: relative;
+    left: -115px;
+    width: 500px;
+  }
+  .offer .main-div h2 {
+    width: 450px;
+  }
+  .pricing .div-2 .card {
+    width: 27rem;
+    margin-bottom: 25px;
+    margin-left: 15px;
+  }
+  .pricing .div-2 .card .card-body .para-1 {
+    position: relative;
+    left: 70px;
+    top: -5px;
+  }
+  .pricing .div-2 .card .card-body a {
+    margin-left: 130px;
+  }
+  .client-review .main-div {
+    position: relative;
+    left: -110px;
+  }
+  .client-review .main-div blockquote {
+    padding: 20px 40px;
+  }
+  .specialist .card-1 {
+    margin: 20px 0;
+  }
+  .specialist .card {
+    width: 22rem;
+    margin-left: 30px;
+  }
+  .specialist .card-3 {
+    margin-left: 65px;
+  }
+  .sign-up .row input, .sign-up .row .contact .div-2 select, .contact .div-2 .sign-up .row select, .sign-up .row .contact .div-2 textarea, .contact .div-2 .sign-up .row textarea {
+    width: 200px;
+    margin-left: -20px;
+  }
+}
+
+/**style for mobile device end here**/
+/**style for tablet device start here**/
+@media screen and (max-width: 786px) {
+  /**product section start here**/
+  .product .last-div {
+    height: 520px;
+  }
+  .product .last-div .card-1 {
+    bottom: 400px;
+    left: 0px;
+  }
+  .product .last-div .card-2 {
+    bottom: 400px;
+    left: 240px;
+  }
+  .product .last-div .card-3 {
+    bottom: 80px;
+    left: 0;
+  }
+  .product .last-div .card-4 {
+    bottom: 80px;
+    left: 240px;
+  }
+  /**professional section start here**/
+  .professional .div-1 {
+    width: 400px;
+  }
+  .professional .row {
+    padding-left: 150px;
+  }
+}
+
+/**style for tablet device end here**/
+/*# sourceMappingURL=style3.css.map */
